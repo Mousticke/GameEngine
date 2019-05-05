@@ -12,7 +12,7 @@ namespace GameEngine {
 		void Run();
 	};
 
-	//Shoukd be defined in client
+	//Should be defined in client
 	Application* CreateApplication();
 }
 
